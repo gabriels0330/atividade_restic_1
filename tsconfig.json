@@ -4,7 +4,6 @@
       "lib": ["ES2015", "DOM"],
       "strict": true,
       "module": "commonjs",
-      "outDir": "/dist",
       "esModuleInterop": true
     },
     "exclude": [
