@@ -6,7 +6,7 @@ Esta aplicação web básica foi desenvolvida para gerar palavras aleatórias em
 
 ## Objetivo
 
-O objetivo deste projeto é demonstrar habilidades na criação de uma interface web básica e na manipulação dinâmica de dados utilizando HTML, CSS e TypeScript. A aplicação foi projetada para ser visualmente atraente e responsiva, utilizando boas práticas de codificação, separação de responsabilidades e organização de arquivos.
+Um gerador de palavras é uma ferramenta útil para inspirar criatividade, fornecer dados para testes e preencher conteúdo fictício. Ele também auxilia no aprendizado de novas palavras, na criação de senhas seguras e em jogos e desafios linguísticos.
 
 ## Instruções para Executar a Aplicação
 
