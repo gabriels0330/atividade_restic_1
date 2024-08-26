@@ -15,4 +15,4 @@ O objetivo deste projeto é demonstrar habilidades na criação de uma interface
    Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/gabriels0330/atividade_restic_1.git
