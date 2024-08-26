@@ -21,11 +21,29 @@ Integração com APIs externas para palavras
 Design mais responsivo
 Tratamento de erros aprimorado
 Funcionalidades adicionais como filtros de palavras
+
 ## Instruções para Executar a Aplicação
+## Como Executar
 
-1. **Clone o Repositório**
+1. **Clone o repositório**:
+    ```sh
+    git clone https://github.com/gabriels0330/atividade_restic_1.git
+    ```
 
-   Clone este repositório para sua máquina local:
+2. **Navegue até o diretório do projeto**:
+    ```sh
+    cd nome-do-repositorio
+    ```
 
-   ```bash
-   git clone https://github.com/gabriels0330/atividade_restic_1.git
+3. **Compile o TypeScript para JavaScript**:
+    Primeiro, você precisa ter o [TypeScript](https://www.typescriptlang.org/) instalado. Se ainda não o fez, instale-o globalmente:
+    ```sh
+    npm install -g typescript
+    ```
+    Compile o arquivo `app.ts`:
+    ```sh
+    tsc app.ts
+    ```
+
+4. **Abra o arquivo `index.html` em um navegador**:
+    Basta abrir o arquivo `index.html` em um navegador de sua escolha para visualizar a aplicação.
